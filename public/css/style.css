@@ -1,0 +1,27 @@
+body{
+    background-color: palevioletred;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    border-radius:20px;
+    
+}
+.navbar h1{
+     margin-left: 20px;
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 30px;
+}
+form{
+   margin: 50px ;
+}
